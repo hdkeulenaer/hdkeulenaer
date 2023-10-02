@@ -1,0 +1,76 @@
+/* Resetting default margins and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Styling the body element */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ddd;
+    color: #333;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+/* Styling a header element */
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Styling a container div */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Styling headings */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Styling paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.tab { 
+    margin-left:50px;
+    text-indent: -50px;
+ }
+
+/* Styling links */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Styling links on hover */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Styling a basic button */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+/* Styling the button on hover */
+.button:hover {
+    background-color: #0056b3;
+}
