@@ -41,12 +41,14 @@ p {
     font-size: 16px;
     line-height: 1.5;
     margin-bottom: 10px;
+    margin-left:50px;
+    text-indent: -50px;
 }
 
 .comment {
-font-size: 14px;
+    font-size: 14px;
     line-height: 1.5;
-    margin-left:50px;
+    margin-left:100px;
     font-style: italic;
 }    
 
