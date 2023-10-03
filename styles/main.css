@@ -47,8 +47,7 @@ p {
 font-size: 14px;
     line-height: 1.5;
     margin-left:50px;
-    text-indent: -50px;
-    font-style:italic;
+    font-style: italic;
 }    
 
 .tab { 
