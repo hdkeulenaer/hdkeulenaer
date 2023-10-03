@@ -50,6 +50,9 @@ p {
     line-height: 1.5;
     margin-left: 100px;
     font-style: italic;
+    content: "\2192"; /* Unicode arrow character (right-pointing) */
+    margin-left: 50px; /* Adjust the margin as needed for spacing */
+    font-weight: bold; /* Optionally, make the arrow bold */
 }    
 
 /* Styling links */
