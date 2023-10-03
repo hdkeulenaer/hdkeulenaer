@@ -48,14 +48,9 @@ p {
 .comment {
     font-size: 14px;
     line-height: 1.5;
-    margin-left:100px;
+    margin-left: 100px;
     font-style: italic;
 }    
-
-.tab { 
-    margin-left:50px;
-    text-indent: -50px;
- }
 
 /* Styling links */
 a {
