@@ -15,6 +15,10 @@ body {
     margin-top: 100px;
 }
 
+table {
+    padding: 10px;
+}
+
 /* Rounded box for top-page links */
 .rbox {
   border-radius: 10px; /* Adjust the border radius for rounded corners */
